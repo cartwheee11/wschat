@@ -1,0 +1,24 @@
+{
+  "name": "wschat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartwheee11/wschat.git"
+  },
+  "author": "cartwheee11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cartwheee11/wschat/issues"
+  },
+  "homepage": "https://github.com/cartwheee11/wschat#readme"
+}
