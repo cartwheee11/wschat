@@ -14,7 +14,7 @@ updateHistory();
 
 let clients = new Set();
 
-let server = new ws.Server({port : 8081});
+let server = new ws.Server({port : 5051});
 
 function handleMessage(message, ws) {
 	message = JSON.parse(message);
